@@ -1,8 +1,11 @@
 ## Welcome to my page
 
-This is a link to [Yahoo](www.yahoo.com).
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is a link to [Yahoo](http://www.yahoo.com).
+### Template Features
+Let's do a box here.
+```markdown
+This is a text.
+```
 
 ### Markdown
 
